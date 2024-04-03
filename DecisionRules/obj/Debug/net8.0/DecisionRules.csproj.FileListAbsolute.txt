@@ -1,0 +1,15 @@
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\bin\Debug\net8.0\DecisionRules.exe
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\bin\Debug\net8.0\DecisionRules.deps.json
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\bin\Debug\net8.0\DecisionRules.runtimeconfig.json
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\bin\Debug\net8.0\DecisionRules.dll
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\bin\Debug\net8.0\DecisionRules.pdb
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\DecisionRules.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\DecisionRules.AssemblyInfoInputs.cache
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\DecisionRules.AssemblyInfo.cs
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\DecisionRules.csproj.CoreCompileInputs.cache
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\DecisionRules.sourcelink.json
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\DecisionRules.dll
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\refint\DecisionRules.dll
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\DecisionRules.pdb
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\DecisionRules.genruntimeconfig.cache
+E:\SourceTreeRepositories\ci-cd_library\DecisionRules\DecisionRules\obj\Debug\net8.0\ref\DecisionRules.dll
