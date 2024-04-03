@@ -25,8 +25,11 @@
         /// <param name="context">The context in which to evaluate the rules.</param>
         public void Evaluate(Context context)
         {
+            // Sort rules by priority before evaluation
+            var sortedRules = ruleSet.Rules.OrderBy(r => r.Priority).ToList();
+
             // Iterate through each rule in the rule set
-            foreach (var rule in ruleSet.Rules)
+            foreach (var rule in sortedRules)
             {
                 // If the rule's condition evaluates to true, execute its action and stop processing further rules
                 if (rule.Evaluate(context))
