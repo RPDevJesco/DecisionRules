@@ -33,7 +33,7 @@ var ruleEvaluator = new RuleEvaluator(ruleSet);
 ruleEvaluator.Evaluate(context);
 ```
 
-# Complex Conditons
+# Complex Conditons & Rule Priority
 
 ```cs
 // Example of combining conditions
@@ -48,7 +48,6 @@ var complexRule = new Rule(complexCondition, someAction, priority: 1);
 # Missing Features
 
 Rule Persistence: Currently, there is no built-in mechanism to persist rules to a database or file system.
-Rule Prioritization: There is no way to specify the order or priority in which rules should be evaluated.
 
 # Contributing
 
